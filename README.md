@@ -10,6 +10,9 @@
   </a>
 </p>
 
+# Package Moved
+This package has moved to the [White Cloak - NestJS Passport Firebase](https://github.com/whitecloakph/nestjs-passport-firebase) project. This repository will no longer be maintained. 
+
 ## Installation
 
 Install the following peer dependencies:
